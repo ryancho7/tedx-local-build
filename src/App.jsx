@@ -1,10 +1,11 @@
 import React from 'react'
+import TeamPage from './pages/TeamPage'
 import './App.css'
 
 function App() {
   return (
     <>
-      <h1 class="text-xl bg-blue-400">Tedx App</h1>
+      <TeamPage />
     </>
   )
 }
